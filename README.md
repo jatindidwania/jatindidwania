@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Jatin Didwania</h1>
 <h5 align="center">
-I'm presently pursuing Bachelors’s in Computer science studies From VIT, Bhopal, IN!. Passionate about clean code, running, exploring, morning crosswords, and learning any and everything that happens to come my way.
+I'm presently pursuing Bachelors’s in Computer science studies From VIT, Bhopal, IN!.<br> Passionate about clean code, running, exploring, morning crosswords, and learning any and everything that happens to come my way.
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatindidwania&label=Profile%20views&color=0e75b6&style=plastic" alt="jatindidwania" /> </p>
 <p>
